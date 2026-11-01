@@ -31,5 +31,17 @@ How to right click to inspect the webpage on a mac
 
 Give list of US beauty websites 
 
+What does 404 mean after i ran this code 
+
+url = "https://www.ulta.com/shop/body-care/suncare/sunscreens"
+
+headers = {
+    "User-Agent": "Mozilla/5.0"
+}
+
+response = requests.get(url, headers=headers)
+
+print(response.status_code)
+
 
 
