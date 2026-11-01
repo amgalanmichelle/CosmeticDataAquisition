@@ -18,4 +18,5 @@ How to right click to inspect the webpage on a mac
 
 Give list of US beauty websites 
 
-How to download Jupyter notbook and python on vs code 
+
+
