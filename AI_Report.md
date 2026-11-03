@@ -29,15 +29,5 @@ Prompts Used
 
 5. What does 404 mean after i ran this code 
 
-6. url = "https://www.ulta.com/shop/body-care/suncare/sunscreens"
-
-headers = {
-    "User-Agent": "Mozilla/5.0"
-}
-
-response = requests.get(url, headers=headers)
-
-print(response.status_code)
-
 
 
