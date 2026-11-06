@@ -26,10 +26,13 @@ How do I save a Jupyter Notebook and connect it to GitHub?
 How do I scrape product names and brand names from the Ulta Beauty website?
 How do I merge the Kaggle dataset with the scraped Ulta Beauty dataset?
 How can I improve my research question?
-What visualisations should I create for this project?
-What observations and insights can be drawn from the data?
-What worked well and what worked poorly when using AI for this project?
-Summary of AI Use
-
-AI was primarily used as a support tool for coding assistance, troubleshooting, web scraping guidance and data analysis. While it improved efficiency and reduced development time, all outputs were critically evaluated, tested and modified where necessary to ensure accuracy and suitability for the project.
+Extract product ratings from the Ulta Beauty website.
+Extract product review counts from the Ulta Beauty website.
+Extract product prices from the Ulta Beauty website.
+Adapt the scraper for the cleanser category.
+Adapt the scraper for the moisturizer category.
+Adapt the scraper for the eye cream category.
+Adapt the scraper for the face mask category.
+Adapt the scraper for the treatment category.
+Adapt the scraper for the sun protection category.
 
